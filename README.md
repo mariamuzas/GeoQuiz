@@ -1,10 +1,10 @@
 # GeoQuiz educational web app and game
 
-You will find 2 different modes in this web application: “Choose Learn” and “Choose Play”.
+There are two different modes in this educational geography app: "Choose Learn" and "Choose Play".
 
-In "Learn mode" you can discover different details and facts from each country just by simply clicking the country in the interactive map.
+In "Learn mode" you can discover facts and details about each of the world's countries by clicking in the interactive map.
 
-If you want to play the game, change the mode to “Choose Play”. There, you will be able to create your own account that will store your scores and details. In the game you will be prompted with a flag, try to find where the country is located in the map from its flag!
+In "Play mode", you will be prompted with a country's flag. Use the map to guess the country from its flag! You can create your own account that will save your details and a score for your correct guesses.
 
 <br />
 
@@ -17,7 +17,11 @@ A user should be able to:
 - Interact with a visual map of countries
 - Click on a country to display facts/details
 - Play a game to guess a country from its flag
-- Incorporate API for country details / import library for map
+
+The app should:
+
+- Use an API for country data
+- Import library to render an interactive map
 
 ## Example Extensions
 - See visual results of correct answers
